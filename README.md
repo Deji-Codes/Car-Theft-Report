@@ -1,5 +1,5 @@
 # CAR THEFT IN INDIA DATASET ANALYSIS
-A dataset on the records of theft in India from 2005 till 2023
+A dataset on the records of theft in India from 2005 till 2023. [Link to the dataset](https://www.kaggle.com/code/sonawanelalitsunil/car-theft-trends-in-india-a-data-driven-explore)
 
 # INTRODUCTION
 Car theft remains a significant challenge in India, affecting individuals, businesses, and law enforcement agencies. This report provides an in-depth analysis of car theft incidents across India from 2005 to 2023. By examining trends, hotspots, and recovery rates, we aim to identify patterns that can help in formulating effective preventive measures. The analysis is based on a dataset covering 10,000 car theft cases, highlighting key factors such as the most targeted car brands, theft trends over time, geographical distribution, and the impact of anti-theft technologies like GPS tracking. This report will help stakeholders, including law enforcement agencies, policymakers, and vehicle owners, to understand car theft dynamics and implement strategies to reduce crime rates and improve vehicle recovery efforts.
